@@ -16,7 +16,7 @@ SECRET_KEY = 'u&z_kp9^mq=mji133v57ks(a5huh17^^!ozii(9rg+onxywbdk'
 
 DEBUG = int(os.environ.get('DEBUG',default=1))
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['178.62.116.125']
 
 
 # Application definition
